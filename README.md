@@ -1,3 +1,3 @@
 SpaceBattle
 
-Juego creado usando conocimientos basicos de computacio grafica
+Game created using basic knowledge of computer graphics
