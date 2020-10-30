@@ -1,4 +1,4 @@
-SpaceBattle
+<b>SpaceBattle</b>
 
 Game created using basic knowledge of computer graphics
 
