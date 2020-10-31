@@ -4,7 +4,7 @@ Un juego simple creado usando conocimientos sobre computacion grafica pygame y p
 ## Tabla de Contenidos
 * [Datos Academicos](#detalles)
 * [Tecnologias](#tecnologias)
-* [Descripción del juego](#descripcion)
+* [Descripción del juego](#descripción-del-juego)
 
 ## Datos Academicos
 * Univerisidad: Universidad Nacional de San Antonio Abad del Cusco
