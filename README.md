@@ -12,7 +12,8 @@
 * **Facultad:** Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
 * **Escuela Profesional:** Escuela Profesional de Ingeniería Informática y de Sistemas 
 * **Docentes:**
-  * Quintanilla Portugal Roxana Lisette [Roxana](https://github.com/nitanilla "Roxana")
+  * Roxana Lisette Quintanilla Portugal [Roxana](https://github.com/nitanilla "Roxana")
+  * Edwin Alvarez Mamani
 * **Curso:** Computacion Grafica I
 
 ## Tecnologias
