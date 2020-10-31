@@ -11,7 +11,8 @@
 * **Univerisidad:** Universidad Nacional de San Antonio Abad del Cusco
 * **Facultad:** Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
 * **Escuela Profesional:** Escuela Profesional de Ingeniería Informática y de Sistemas 
-* **Docente:** Quintanilla Portugal Roxana Lisette
+* **Docente:** Quintanilla Portugal Roxana Lisette [Roxanas](https://github.com/nitanilla "Roxanaaaa")
+
 ## Tecnologias
 * Python 3.8
 * Pygame
