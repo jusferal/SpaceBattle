@@ -1,6 +1,6 @@
  # SpaceBattle :video_game::computer:
 
-> Un juego simple creado usando conocimientos sobre computacion grafica pygame y pyopengl
+> Un juego simple usando conocimientos sobre computacion grafica pygame y pyopengl
 ## Tabla de Contenidos
 * [Datos Academicos](#datos-academicos)
 * [Tecnologias](#tecnologias)
