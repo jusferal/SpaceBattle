@@ -1,4 +1,4 @@
- :computer:# SpaceBattle :video_game:
+ # SpaceBattle :video_game::computer:
 
 <b>Descripción</b></br>
 El juego se remonta en un mundo donde un guerrero lucha contra los alienígenas que tratan de invadir el planeta del guerrero . En una batalla por contrarrestar a los invasores nuestro guerrero usará todos los métodos y armas avanzadas para proteger su planeta de origen ya sean con misiles u otro tipo de armas.
