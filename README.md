@@ -2,11 +2,11 @@
 
 Un juego simple creado usando conocimientos sobre computacion grafica pygame y pyopengl
 ## Tabla de Contenidos
-* [Datos Academicos](#detalles)
+* [Datos Academicos](#datos-academicos)
 * [Tecnologias](#tecnologias)
 * [Descripción del juego](#descripción-del-juego)
 
-## Datos Academicos
+## Datos Academicos  :school:
 * Univerisidad: Universidad Nacional de San Antonio Abad del Cusco
 * Facultad:Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
 * Escuela Profesional:Escuela Profesional de Ingeniería Informática y de Sistemas 
