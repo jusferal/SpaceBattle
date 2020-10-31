@@ -7,10 +7,10 @@
 * [Descripción del juego](#descripción-del-juego)
 
 ## Datos Academicos  :school:
-* *Univerisidad:* Universidad Nacional de San Antonio Abad del Cusco
-* Facultad:Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
-* Escuela Profesional:Escuela Profesional de Ingeniería Informática y de Sistemas 
-* Docente:Quintanilla Portugal Roxana Lisette
+* **Univerisidad:** Universidad Nacional de San Antonio Abad del Cusco
+* **Facultad:** Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
+* **Escuela Profesional:** Escuela Profesional de Ingeniería Informática y de Sistemas 
+* **Docente:** Quintanilla Portugal Roxana Lisette
 ## Tecnologias
 * Python 3.8
 * Pygame
