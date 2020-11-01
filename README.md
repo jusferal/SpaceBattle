@@ -5,7 +5,7 @@
 * [Datos Académicos](#datos-academicos)
 * [Tecnologías](#tecnologias)
 * [Descripción del juego](#descripción-del-juego)
-* [¿Cómo Jugar?](#como-jugar)
+* [¿Cómo Jugar?](#cómo-jugar)
 * [Gameplay](#gameplay)
 
 ## Datos Académicos  :school:
