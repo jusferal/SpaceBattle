@@ -30,3 +30,5 @@ El guerrero aun no sabe qué tan avanzada será la tecnología de las armas de l
   * Moverse hacia la izquierda presionando la tecla direcional  :arrow_right:
   * Saltar presionando la tecla direccional  :arrow_up:
 ## Gameplay
+![ScreenShot](https://github.com/wildkite/SpaceBattle/blob/main/img/Space%20Battle.gif)
+
